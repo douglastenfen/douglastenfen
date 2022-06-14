@@ -10,7 +10,7 @@
 
 ### Opa, eu sou o Douglas 👋
 
-Tenho 22 anos, sou de Santa Catarina e trabalho como Desenvolvedor Back-end Jr. e vejo também um pouco de Delphi.
+Tenho 22 anos, sou de Santa Catarina e trabalho como Desenvolvedor Node Jr. e vejo também um pouco de Delphi.
 
 Apesar de já estar a um tempo na área, comecei a usar o Github a pouco tempo.
 
