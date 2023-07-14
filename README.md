@@ -8,22 +8,12 @@
     </a>
 </div>
 
-### Opa, eu sou o Douglas 👋
+### Hi there 🖖
+----
 
-Tenho 22 anos, sou de Santa Catarina e trabalho como Desenvolvedor Node Jr. e vejo também um pouco de Delphi.
+### I'm Douglas Tenfen de Oliveira
 
-Apesar de já estar a um tempo na área, comecei a usar o Github a pouco tempo.
-
-Gosto muito de estudar sobre assuntos que envolvam tecnologia e faço isso inclusive no meu tempo livre.
-
-* **Stack atual**: Javascript - NodeJS - SQL - Delphi
-
----- 
-
-#### 🎯 Objetivo
-
-* Me envolver mais na comunidade.
-* Aprender mais sobre Front-end.
+* **Current stack**: TypeScript - NodeJS - MSSQL
 
 ----
 
