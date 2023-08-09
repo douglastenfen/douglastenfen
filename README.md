@@ -1,24 +1,23 @@
-<div>
-  <a target='_blank' href="https://twitter.com/odougl4s">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-  
-  <a target='_blank' href="https://www.linkedin.com/in/douglas-tenfen-de-oliveira">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div>
+<h3 align="center">👋 Hello! I'm Douglas Tenfen de Oliveira.</h3>
 
-### Hi there 🖖
-----
+<p align="center">
+  <strong>Passionate about coding and technology.</strong><br>
+  Current stack: 
+  <code>TypeScript</code> | 
+  <code>NodeJS</code> | 
+  <code>MSSQL</code>
+</p>
 
-### I'm Douglas Tenfen de Oliveira
+<p align="center">
+  🌱 I'm currently learning everything about <strong>Web Development</strong><br>
+<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/your_twitter_handle" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
+</a>
+</p>
 
-* **Current stack**: TypeScript - NodeJS - MSSQL
-
-----
-
-<img align="center" alt="python-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" alt="node-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" alt="python-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /> <img align="center" alt="python-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-
-
-
- 
+<p align="center">
+  <strong>👇 Check out some of my work below! 👇</strong><br>
+</p>
