@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Douglas Tenfen de Oliveira.</h3>
+<h3 align="center">🖖 Hello! I'm Douglas Tenfen.</h3>
 
 <p align="center">
   <strong>Passionate about coding and technology.</strong><br>
