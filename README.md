@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌱 I'm currently learning everything about <strong>Web Development</strong><br>
+  🌱 I'm currently learning everything about <strong>Software Development</strong><br>
 <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
