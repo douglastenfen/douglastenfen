@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=5E81AC&center=true&width=435&lines=Software+Engineer;Building+robust+APIs;Automating+everything+I+can" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/douglas-tenfen-de-oliveira" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" height="20">
-  </a>
-  
 ---
 
 <h3 align="center">💻🚀 Tech Experience</h3>
